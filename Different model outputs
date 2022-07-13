@@ -1,0 +1,13 @@
+model outputs
+model1: decision tree:
+Mean: 4.417208559062179
+standard deviation: 1.1180139225938477
+
+model2: linear Regressions
+Mean: 3.1261200748373077
+standard deviation: 0.9396945286046035
+
+my model work on this method
+model3: Random Forest Regressor
+Mean: 3.113744841791899
+standard deviation: 0.8763217830628446
